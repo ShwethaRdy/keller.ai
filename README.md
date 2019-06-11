@@ -60,9 +60,9 @@ Loading the dataset was easier, thanks to the builtin command to load MNIST data
 4. When it has run succesfully you would see something similar to this:
 <img width="862" alt="Screenshot 2019-06-11 at 8 58 34 AM" src="https://user-images.githubusercontent.com/38836379/59242061-cc41fa80-8c27-11e9-82b2-c54127e907f4.png">
 5. Type the following command in your browser.
-```
-http://localhost:5000/result/?d= and the image link you like to test.
-```
+
+https://localhost:5000/result/?d= and the image link you like to test.
+
 6. You'll find a number being printed in the same tab of the browser.
 7. You can test for various kinds of images digts available.
 
