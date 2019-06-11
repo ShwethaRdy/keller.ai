@@ -3,16 +3,16 @@ This is the project on Handwritten digit recognition system using Convolution ne
 Me and my team have done it in the ExpertsHub Internship at Hyderabad.
 
 # Tools and framework:
-Jupyter Lab:
-Can be installed using Anaconda https://www.anaconda.com/distribution/
+1. Jupyter Lab:
+ Can be installed using Anaconda https://www.anaconda.com/distribution/
 It's one of the best ways to get through Jupyter notebooks.
 
-Google Colab:
+2. Google Colab:
 It was a treat and a half using this beacuse of its simplicity. I could also run this on my mobile and edit the files supporting .ipynb format
 It's even a lot helpful for the ones not owning a GPU.
 Google Colab can be found here: https://colab.research.google.com/
 
-NumPy:
+3. NumPy:
 Its already installed on your computer if you have Anaconda installed.
 You can type 
 ```
@@ -20,7 +20,7 @@ conda list
 ```
 to find all the required packages installed.
 
-TensorFlow:
+4. TensorFlow:
 Its not pre-installed with the Anaconda, just type 
 ```
 conda install tensorflow 
@@ -28,7 +28,7 @@ conda install tensorflow
 and select the version of the package to be installed on your computer. 
 You can find more about TensorFlow here: https://www.tensorflow.org
 
-Keras:
+5. Keras:
 Its an high level deep neural network API built on top of TensorFlow.
 You need to run the command 
 ```
@@ -37,9 +37,10 @@ conda install keras
 in your CLI.
 You can know nore about keras here: https://keras.io
 
-matplotlib
+6. matplotlib
 
-PyCharm(2018.3.4)
+7. PyCharm(2018.3.4)
+You can install PyCharm from here: https://www.jetbrains.com/pycharm/download/
 
 # Dataset:
 I took the MNIST dataset of handwritten digits.
